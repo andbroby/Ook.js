@@ -71,3 +71,5 @@ function interpret(source) {
     i += 2;
   }
 }
+
+module.exports = interpret;
