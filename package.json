@@ -1,0 +1,27 @@
+{
+  "name": "ook.js",
+  "version": "1.0.0",
+  "description": "An interpreter for Ook! - the language for orangutans - written in a language designed by orangutans.",
+  "main": "interpreter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andbroby/Ook.js.git"
+  },
+  "keywords": [
+    "ookjs",
+    "orangutans",
+    "monkeys"
+  ],
+  "author": "Andreas Broby <and.broby@gmail.com>",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/andbroby/Ook.js/issues"
+  },
+  "dependencies": {
+    "readline": "readline"
+  },
+  "homepage": "https://github.com/andbroby/Ook.js"
+}
