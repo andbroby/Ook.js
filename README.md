@@ -1,6 +1,7 @@
 # Ook.js
 Interpreter for [Ook!](http://www.dangermouse.net/esoteric/ook.html) in Javascript.
 
+![](http://i.imgur.com/u7fEqxN.png)
 ## Usage
 Installation is made easy with npm:
 
